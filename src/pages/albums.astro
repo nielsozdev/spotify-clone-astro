@@ -7,7 +7,7 @@ import ContainerCards from '@components/ui/atoms/ContainerCards.astro'
 import Layout from '@layouts/Layout.astro'
 import { getAllAlbums } from '@services/albums.services'
 
-export const prerender = false
+export const prerender = true
 
 const albums = await getAllAlbums()
 ---
