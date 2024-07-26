@@ -9,7 +9,7 @@ import ContainerHeaderBox from '@components/ui/atoms/ContainerHeaderBox.astro'
 import Layout from '@layouts/Layout.astro'
 import { getAllAlbums } from '@services/albums.services'
 
-export const prerender = false
+export const prerender = true
 export async function getStaticPaths() {
   const albums = await getAllAlbums()
   console.log(albums)
