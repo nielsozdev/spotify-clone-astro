@@ -27,7 +27,7 @@ const BREAKPOINTS = {
 const BASE_URL =
   import.meta.env.MODE === 'development'
     ? 'http://localhost:4321'
-    : ''
+    : 'https://noz-spotify-clone-astro.vercel.app'
 
 // const BASE_URL = `${path.relative('.', directoryPath).replace(/\\/g, '/')}`
 
