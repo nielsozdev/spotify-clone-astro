@@ -1,0 +1,127 @@
+---
+
+import CardLandscape from '@components/cards/CardLandscape.astro'
+import CardSquare from '@components/cards/CardSquare.astro'
+import Greeting from '@components/header/Greeting.svelte'
+import TopbarHeader from '@components/header/TopbarHeader.astro'
+import Container from '@components/ui/atoms/Container.astro'
+import ContainerCards from '@components/ui/atoms/ContainerCards.astro'
+import ContainerHeaderBox from '@components/ui/atoms/ContainerHeaderBox.astro'
+import Layout from '@layouts/Layout.astro'
+import { getAllAlbums } from '@services/albums.services'
+import { getAllArtists } from '@services/artists.services'
+import { getAllPlaylists } from '@services/playlists.services'
+import { getAllSingles } from '@services/singles.services'
+import { capitalizeName } from '@utils/capitalizeName'
+
+export const prerender = false
+
+const limit = 9
+// console.log(process.memoryUsage())
+const playlists = await getAllPlaylists({ limit })
+const albums = await getAllAlbums({ limit })
+const singles = await getAllSingles({ limit })
+const artists = await getAllArtists({ limit })
+---
+
+<Layout title='Spotify clone'>
+  <ContainerHeaderBox color='#007aff44'>
+    <TopbarHeader slot='button-back' />
+
+    <div class='relative z-10 mb-10 sm:mb-20'>
+      <Greeting />
+
+      <div class='grid grid-cols-1 gap-6 pt-6 sm:grid-cols-2 xl:grid-cols-4'>
+        {
+          playlists.map(({ cover, title, artist, id, songs }) => {
+            if (songs.length > 0) {
+              return (
+                <CardLandscape
+                  transitionName={`playlist-${id}-box`}
+                  id={id}
+                  cover={cover}
+                  title={capitalizeName(artist, 'name') || title}
+                  href={`/playlist/${id}`}
+                />
+              )
+            }
+            return null
+          })
+        }
+      </div>
+    </div>
+  </ContainerHeaderBox>
+
+  <Container>
+    <ContainerCards row={true} title='Hecho para ti'>
+      {
+        playlists.map(({ type, cover, title, id, songs }) => (
+          <>
+            <CardSquare
+              transitionName={`playlist-${id}-box2`}
+              id={id}
+              cover={cover}
+              title={title}
+              description={type}
+              href={`/playlist/${id}`}
+              type={type}
+              tracksCount={songs?.length}
+            />
+          </>
+        ))
+      }
+    </ContainerCards>
+
+    <ContainerCards row={true} title='Albums' href={'/albums'}>
+      {
+        albums.map(({ type, cover, title, id, songs }) => (
+          <>
+            <CardSquare
+              transitionName={`album-${id}-box`}
+              id={id}
+              cover={cover}
+              title={title}
+              description={type}
+              href={`/album/${id}`}
+              type={type}
+              tracksCount={songs.length}
+            />
+          </>
+        ))
+      }
+    </ContainerCards>
+
+    <ContainerCards row={true} title='Singles' href={'/singles'}>
+      {
+        singles.map(({ type, cover, title, id, tracksCount }) => (
+          <CardSquare
+            transitionName={`single-${id}-box`}
+            id={id}
+            cover={cover}
+            title={title}
+            description={type}
+            href={`/single/${id}`}
+            type={type}
+            tracksCount={tracksCount}
+          />
+        ))
+      }
+    </ContainerCards>
+
+    <ContainerCards row={true} title='Artistas' href={'/artistas'}>
+      {
+        artists.map(({ id, name, type, cover }) => (
+          <CardSquare
+            id={id}
+            title={name}
+            cover={cover}
+            href={`/artista/${id}`}
+            description={''}
+            type={type}
+            rounded={true}
+          />
+        ))
+      }
+    </ContainerCards>
+  </Container>
+</Layout>

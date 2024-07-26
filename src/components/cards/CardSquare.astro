@@ -1,0 +1,140 @@
+---
+import { ButtonPlayer } from '@components/button-player/ButtonPlayer'
+import AlbumIcon from '@icons/AlbumIcon.astro'
+import type { MusicSource } from '@typesDef/api'
+
+interface Props {
+  id: string
+  cover?: string | null
+  title: string
+  description?: string | null
+  href: string
+  transitionName?: string
+  type: MusicSource
+  tracksCount?: number | null
+  rounded?: boolean
+}
+const {
+  id,
+  cover = null,
+  title,
+  description = null,
+  href,
+  type,
+  tracksCount = null,
+  transitionName,
+  rounded = false
+} = Astro.props
+---
+
+<article
+  class={'group relative rounded-lg bg-zinc-500/5 p-4 transition duration-300 hover:bg-zinc-800 '}
+>
+  <div class='w-50 max-w-50 z-0 h-full'>
+    <div class='relative mb-4'>
+      <div class='w-full rounded-md pb-[100%]'>
+        <div class=''>
+          <picture class='absolute z-0 aspect-square h-auto w-full flex-none'>
+            <div
+              class:list={[
+                'absolute inset-0 z-10 bg-zinc-800 transition duration-300 group-hover:bg-zinc-700',
+                {
+                  'rounded-full': rounded
+                },
+                {
+                  'rounded-md': !rounded
+                }
+              ]}
+            >
+              {
+                cover && (
+                  <img
+                    src={cover}
+                    alt={title}
+                    class:list={[
+                      'absolute top-0 z-0 h-full w-full object-cover object-center shadow-[5px_0_30px_0px_rgba(0,0,0,0.3)]',
+                      {
+                        'rounded-full': rounded
+                      },
+                      {
+                        'rounded-md': !rounded
+                      }
+                    ]}
+                  />
+                )
+              }
+              {
+                !cover && (
+                  <div class='absolute inset-0  flex items-center justify-center '>
+                    <div class='h-24 w-24'>
+                      <AlbumIcon />
+                    </div>
+                  </div>
+                )
+              }
+            </div>
+          </picture>
+        </div>
+      </div>
+      <!--  -->
+      {
+        !!tracksCount && (
+          <div class='absolute bottom-0 left-0 right-0 top-0 h-full w-full'>
+            <div class='relative h-full w-full'>
+              <div class='absolute bottom-0 right-0 z-20'>
+                <ButtonPlayer
+                  id={id}
+                  type={type}
+                  disabled={tracksCount === 0}
+                  client:load
+                />
+              </div>
+            </div>
+          </div>
+        )
+      }
+      <!--  -->
+    </div>
+
+    <div class='relative z-20'>
+      <div class='w-full overflow-hidden rounded-md'>
+        <div class=''>
+          <a href={href} class=''>
+            <div
+              class:list={[
+                'block flex overflow-hidden truncate font-bold',
+                {
+                  'justify-center': !description && !tracksCount
+                }
+              ]}
+            >
+              {title}
+            </div>
+            {
+              description && (
+                <div class='text-md text-pretty text-gray-400'>
+                  {description}
+                </div>
+              )
+            }
+            {
+              !!tracksCount && (
+                <div class='text-md text-pretty text-gray-400'>
+                  {tracksCount} canciones
+                </div>
+              )
+            }
+          </a>
+        </div>
+      </div>
+    </div>
+    <a
+      href={href}
+      aria-label={`Ir a ${title}`}
+      class='bg-blue-500'
+      transition:name={transitionName}
+    >
+      <div class='navigate-box absolute inset-1 z-[10000]'></div>
+    </a>
+  </div>
+</article>

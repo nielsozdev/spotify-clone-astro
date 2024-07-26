@@ -1,0 +1,58 @@
+---
+
+import { ButtonPlayer } from '@components/button-player/ButtonPlayer'
+import Cover from '@components/cover/Cover.astro'
+import TopbarHeader from '@components/header/TopbarHeader.astro'
+import { MediaCollections } from '@components/tables/MediaCollections'
+import Container from '@components/ui/atoms/Container.astro'
+import ContainerHeaderBox from '@components/ui/atoms/ContainerHeaderBox.astro'
+import Layout from '@layouts/Layout.astro'
+import { getAllSingles } from '@services/singles.services'
+
+export const prerender = false
+
+export async function getStaticPaths() {
+  const singles = await getAllSingles()
+  const data = singles.map((single) => {
+    return {
+      params: { id: single.id },
+      props: { ...single }
+    }
+  })
+
+  return data
+}
+const path = Astro.url.pathname
+
+const idSingle = Astro.params.id as string
+
+const { title, id, cover, type, tracksCount, duration, artist, color, songs } =
+  Astro.props
+---
+
+<Layout title={`Single ${title}`}>
+  <ContainerHeaderBox color={color} transition:name={`single-${id}-box`}>
+    <TopbarHeader slot='button-back' />
+
+    <Cover
+      id={id}
+      type={type}
+      cover={cover ?? null}
+      artist={artist}
+      duration={duration}
+      tracksCount={tracksCount}
+      title={title}
+    />
+    <ButtonPlayer
+      client:load
+      id={idSingle}
+      size='big'
+      type={type}
+      path={path}
+      slot='button-player'
+    />
+  </ContainerHeaderBox>
+  <Container>
+    <MediaCollections client:load songs={songs} id={idSingle} type={type} />
+  </Container>
+</Layout>

@@ -1,0 +1,77 @@
+---
+import Container from '@components/ui/atoms/Container.astro'
+---
+
+<Container>
+  <header
+    class='z-100 left-0 top-0 flex w-full justify-between gap-8 py-3 md:py-5'
+  >
+    <div class='flex items-center gap-4'>
+      <button
+        id='backwardButton'
+        aria-label='go back to home page'
+        class='inline-flex h-8 w-8 items-center justify-center rounded-full bg-zinc-900
+        disabled:cursor-not-allowed'
+        disabled
+      >
+        <svg
+          class='h-6 w-6'
+          viewBox='0 0 24 24'
+          stroke-width='1.5'
+          stroke='currentColor'
+          fill='none'
+          stroke-linecap='round'
+          stroke-linejoin='round'
+        >
+          <>
+            <path stroke='none' d='M0 0h24v24H0z' fill='none'></path>
+            <path d='M15 6l-6 6l6 6'></path>
+          </>
+        </svg>
+      </button>
+      <button
+        id='forwardButton'
+        aria-label='go back to home page'
+        class='inline-flex h-8 w-8 items-center justify-center rounded-full bg-zinc-900'
+      >
+        <svg
+          class='h-6 w-6'
+          viewBox='0 0 24 24'
+          stroke-width='1.5'
+          stroke='currentColor'
+          fill='none'
+          stroke-linecap='round'
+          stroke-linejoin='round'
+        >
+          <>
+            <path stroke='none' d='M0 0h24v24H0z' fill='none'></path>
+            <path d='M9 6l6 6l-6 6'></path>
+          </>
+        </svg>
+      </button>
+    </div>
+    <div class='flex flex-grow items-center'>
+      <slot />
+    </div>
+  </header>
+</Container>
+<script>
+  document.addEventListener('astro:page-load', () => {
+    const backwardButton = document?.getElementById('backwardButton')
+    backwardButton?.addEventListener('click', () => {
+      history.back()
+    })
+    if (window.history.state.index === 0) {
+      backwardButton?.setAttribute('disabled', '')
+    } else {
+      backwardButton?.removeAttribute('disabled')
+    }
+  })
+
+  document.addEventListener('astro:page-load', () => {
+    const forwardButton = document?.getElementById('forwardButton')
+    forwardButton?.addEventListener('click', () => {
+      history.forward()
+    })
+  })
+</script>

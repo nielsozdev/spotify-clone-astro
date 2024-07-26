@@ -1,0 +1,89 @@
+---
+
+import CardTiles from '@components/cards/CardTiles.astro'
+import TopbarHeader from '@components/header/TopbarHeader.astro'
+import Container from '@components/ui/atoms/Container.astro'
+import { spotify } from '@data/spotify'
+import Layout from '@layouts/Layout.astro'
+
+export const prerender = false
+---
+
+<Layout title='Busca tu canción favorita'>
+  <TopbarHeader>
+    <form class='flex w-full max-w-lg items-center' class='form'>
+      <label for='search' class='sr-only'> Buscar </label>
+      <div class='relative w-full'>
+        <input
+          autocomplete='off'
+          type='search'
+          required
+          min='2'
+          max='50'
+          name='search'
+          id='search'
+          placeholder='Busca canciones ...'
+          class='mt-2 block w-full rounded-full border-2 border-white
+           bg-zinc-50 p-2.5 ps-4 text-sm font-semibold text-zinc-900 focus:border-white
+           focus:ring-white dark:border-zinc-800 dark:bg-zinc-800
+            dark:text-white dark:placeholder-gray-400 dark:focus:border-zinc-100 dark:focus:ring-white'
+        />
+      </div>
+    </form>
+  </TopbarHeader>
+  <Container title='Resultados'>
+    <p id='searchReadout'></p>
+  </Container>
+  <Container>
+    <div class=''>
+      <ul
+        id='search-results'
+        class='flex w-full flex-shrink-0 flex-row flex-wrap items-center gap-1 md:gap-4'
+      >
+      </ul>
+    </div>
+  </Container>
+  <Container title='Explorar'>
+    <div class='container-card-tiles mb-10 mt-4 flex flex-wrap'>
+      {
+        spotify.map((item) => (
+          <CardTiles title={item.title} image={item.image} color={item.color} />
+        ))
+      }
+    </div>
+  </Container>
+
+  <script>
+    import { handleSubmit } from '@helpers/search-widget/handleSubmit'
+    import { handleSearchInput } from '@helpers/search-widget/handleSearchInput'
+    import { handleLoadDOM } from '@helpers/search-widget/handleLoadDOM'
+
+    document.addEventListener('astro:page-load', async () => {
+      if (window.location.pathname === '/buscar') {
+        let SEARCH_DATA: any = null
+        let searchTerm = ''
+
+        const form = document.querySelector('form') as HTMLFormElement
+        const search = document.getElementById('search') as HTMLInputElement
+
+        await handleLoadDOM({ search, searchTerm, searchData: SEARCH_DATA })
+        handleSearchInput({ search, searchTerm, searchData: SEARCH_DATA })
+        handleSubmit({ form })
+      }
+    })
+  </script>
+</Layout>
+<style>
+  .container-card-tiles {
+    display: grid;
+    grid-gap: var(--grid-gap);
+    grid-template-columns: repeat(var(--column-count), minmax(0, 1fr));
+    min-width: 100%;
+    /* min-width: var(--min-container-width); */
+    overflow: hidden;
+  }
+  .container-card-counts {
+    grid-auto-rows: 0;
+    grid-template-rows: 1fr;
+  }
+</style>

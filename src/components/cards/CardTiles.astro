@@ -1,0 +1,67 @@
+---
+interface Props {
+  title: string
+  image: string
+  color: string
+}
+const { title, image, color } = Astro.props
+---
+
+<div class='tile' style={{ backgroundColor: color }}>
+  <div>
+    <img src={image} alt={title} />
+  </div>
+  <div class='content text-pretty'>{title}</div>
+</div>
+
+<style>
+  .tile {
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    /* background-color: rgb(0, 100, 80); */
+    user-select: none;
+  }
+  .tile::after {
+    content: '';
+    display: block;
+    padding-bottom: 100%;
+  }
+  img {
+    right: 0;
+    transform: rotate(25deg) translate(18%, -2%);
+    bottom: 0;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    height: 100px;
+    position: absolute;
+    width: 100px;
+    object-fit: cover;
+    object-position: center center;
+  }
+  .content {
+    margin-block: 0px;
+    color: inherit;
+    --font-size-min: 18;
+    --font-size-max: 21;
+    --font-view-min: 576;
+    --font-view-max: 1280;
+
+    font-size: clamp(
+      calc(var(--font-size-min) * 1px),
+      calc(
+        (var(--font-size-min) * 1px) +
+          (var(--font-size-max) - var(--font-size-min)) *
+          ((100vw - (var(--font-view-min) * 1px)) / var(--font-view-max))
+      ),
+      calc(var(--font-size-max) * 1px)
+    );
+    line-height: 1.6em;
+    max-width: 100%;
+    overflow-wrap: break-word;
+    padding: 16px;
+    position: absolute;
+    font-weight: 700;
+  }
+</style>

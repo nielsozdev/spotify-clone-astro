@@ -1,0 +1,34 @@
+---
+
+import CardSquare from '@components/cards/CardSquare.astro'
+import TopbarHeader from '@components/header/TopbarHeader.astro'
+import Container from '@components/ui/atoms/Container.astro'
+import ContainerCards from '@components/ui/atoms/ContainerCards.astro'
+import Layout from '@layouts/Layout.astro'
+import { getAllArtists } from '@services/artists.services'
+
+export const prerender = false
+
+const artistas = await getAllArtists()
+---
+
+<Layout title='Artistas'>
+  <TopbarHeader />
+  <Container>
+    <ContainerCards title='Artistas'>
+      {
+        artistas.map(({ id, name, type, cover }) => (
+          <CardSquare
+            id={id}
+            title={name}
+            cover={cover}
+            href={`/artista/${id}`}
+            description={''}
+            type={type}
+            rounded={true}
+          />
+        ))
+      }
+    </ContainerCards>
+  </Container>
+</Layout>

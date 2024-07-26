@@ -1,0 +1,8 @@
+# never EVER use CRLF, Windows
+* text eol=lf
+
+*.js    eol=lf
+*.jsx   eol=lf
+*.ts    eol=lf
+*.tsx   eol=lf
+*.json  eol=lf

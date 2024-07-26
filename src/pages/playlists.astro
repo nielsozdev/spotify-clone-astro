@@ -1,0 +1,35 @@
+---
+
+import CardSquare from '@components/cards/CardSquare.astro'
+import TopbarHeader from '@components/header/TopbarHeader.astro'
+import Container from '@components/ui/atoms/Container.astro'
+import ContainerCards from '@components/ui/atoms/ContainerCards.astro'
+import Layout from '@layouts/Layout.astro'
+import { getAllPlaylists } from '@services/playlists.services'
+
+export const prerender = false
+
+const albums = await getAllPlaylists()
+---
+
+<Layout title='Mi equipo'>
+  <TopbarHeader />
+
+  <Container>
+    <ContainerCards title='Mis Playlists'>
+      {
+        albums.map(({ id, type, artist, title, cover, songs }) => (
+          <CardSquare
+            id={id}
+            title={title}
+            cover={cover}
+            href={`/playlist/${id}`}
+            description={artist}
+            type={type}
+            tracksCount={songs.length ?? 0}
+          />
+        ))
+      }
+    </ContainerCards>
+  </Container>
+</Layout>

@@ -1,0 +1,21 @@
+---
+import { config } from '@config/index'
+
+import AsideMenuItem from './AsideMenuItem.astro'
+---
+
+<div class='flex flex-col rounded-lg bg-zinc-900 py-2'>
+  <div>
+    {
+      config.ASIDE_MENU.map((menuItem) => (
+        <AsideMenuItem
+          href={menuItem.href}
+          ariaLabel={menuItem.title}
+          icon={menuItem.icon}
+        >
+          {menuItem.title}
+        </AsideMenuItem>
+      ))
+    }
+  </div>
+</div>

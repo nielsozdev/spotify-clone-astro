@@ -1,0 +1,52 @@
+---
+import { randomColor } from '@utils/randomColor'
+
+import Container from './Container.astro'
+
+interface Props {
+  color?: string | null
+}
+const isButtonPlayerSlot = Astro.slots.hasOwnProperty('button-player')
+const isButtonBackSlot = Astro.slots.hasOwnProperty('button-back')
+// const defaultColor = '#000'
+const defaultColor = randomColor().dark
+
+const { color = defaultColor } = Astro.props
+const bgColor = color ? color : defaultColor
+---
+
+<div class='relative'>
+  <div
+    id='playlist-container'
+    class='relative min-h-[300px] pt-[80px] transition-all duration-1000'
+    style={{ backgroundColor: bgColor }}
+  >
+    {
+      isButtonBackSlot && (
+        <div class='absolute top-0 z-50 w-full'>
+          <slot name='button-back' />
+        </div>
+      )
+    }
+    <div>
+      <Container>
+        <slot />
+      </Container>
+    </div>
+    <div
+      class='absolute inset-0 z-0 bg-gradient-to-t from-zinc-900 via-zinc-900/80'
+    >
+    </div>
+  </div>
+</div>
+{
+  isButtonPlayerSlot && (
+    <Container>
+      <div class='relative my-4  lg:mb-6 lg:mt-2'>
+        <div class='inline-flex'>
+          <slot name='button-player' />
+        </div>
+      </div>
+    </Container>
+  )
+}

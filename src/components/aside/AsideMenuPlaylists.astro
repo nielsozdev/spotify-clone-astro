@@ -1,0 +1,49 @@
+---
+import { ButtonAddPlaylist } from '@components/button-add-playlist/ButtonAddPlaylist'
+import { ButtonRestoreData } from '@components/button-restore-data/ButtonRestoreData'
+import LibraryIcon from '@icons/Library.astro'
+import { getAllPlaylists } from '@services/playlists.services'
+
+import { AsideMenuCardItem } from './AsideMenuICardtem'
+import AsideMenuItem from './AsideMenuItem.astro'
+
+const playlists = await getAllPlaylists()
+---
+
+<div class='flex h-full flex-grow rounded-lg bg-zinc-900'>
+  <div class='flex w-full flex-col'>
+    <div class='flex w-full'>
+      <AsideMenuItem icon={LibraryIcon} href='/playlists' ariaLabel='Playlists'>
+        <div class='flex w-full items-center justify-center sm:justify-between'>
+          <span class='flex'>Tu biblioteca</span>
+        </div>
+      </AsideMenuItem>
+      <span class='hidden items-center gap-x-4 px-3 md:flex'>
+        <ButtonAddPlaylist client:load />
+
+        <ButtonRestoreData client:load />
+      </span>
+    </div>
+    <div class='relative flex h-full w-full flex-grow'>
+      <div
+        class='absolute bottom-0 top-0 flex h-full w-full flex-col overflow-hidden'
+      >
+        <div class='flex flex-col gap-1 overflow-hidden hover:overflow-y-auto'>
+          {
+            playlists.map(({ id, title, artist, type, cover, songs }) => (
+              <AsideMenuCardItem
+                id={id}
+                title={title}
+                songs={songs}
+                subtitle={artist}
+                type={type}
+                cover={cover ?? null}
+                client:load
+              />
+            ))
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

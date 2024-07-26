@@ -1,0 +1,1173 @@
+[
+  {
+    "album": "Chau saura session",
+    "artist": "chau-saura-amies-kyu",
+    "banner": null,
+    "color": "#282a59",
+    "cover": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/cover.jpg",
+    "duration": 899.3280000000001,
+    "id": "0",
+    "idAlbum": "0_0_0",
+    "idSingle": null,
+    "songs": [
+      {
+        "id": "0_0_0_0",
+        "idAlbum": "0_0_0",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "01",
+        "album": "chau-saura-session",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/01.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 229.68,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_0_0_1",
+        "idAlbum": "0_0_0",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "02",
+        "album": "chau-saura-session",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/02.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 112.92,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_0_0_2",
+        "idAlbum": "0_0_0",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "03",
+        "album": "chau-saura-session",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/03.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 135.504,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_0_0_3",
+        "idAlbum": "0_0_0",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "04",
+        "album": "chau-saura-session",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/04.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 246.384,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_0_0_4",
+        "idAlbum": "0_0_0",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "05",
+        "album": "chau-saura-session",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/05.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 174.84,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      }
+    ],
+    "title": "Chau saura session",
+    "type": "playlist",
+    "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session",
+    "tracksCount": 5
+  },
+  {
+    "album": "Lo fi chill session",
+    "artist": "kupla-blue-fox",
+    "banner": null,
+    "color": "#2c3853",
+    "cover": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/cover.jpg",
+    "duration": 863.52,
+    "id": "1",
+    "idAlbum": "0_1_0",
+    "idSingle": null,
+    "songs": [
+      {
+        "id": "0_1_0_0",
+        "idAlbum": "0_1_0",
+        "idArtist": "0_1",
+        "type": "album",
+        "title": "city-lights",
+        "album": "lo-fi-chill-session",
+        "artist": "kupla-blue-fox",
+        "cover": null,
+        "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/city-lights.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 191.976,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_1_0_2",
+        "idAlbum": "0_1_0",
+        "idArtist": "0_1",
+        "type": "album",
+        "title": "lost-pages",
+        "album": "lo-fi-chill-session",
+        "artist": "kupla-blue-fox",
+        "cover": null,
+        "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/lost-pages.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 160.92,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_1_0_3",
+        "idAlbum": "0_1_0",
+        "idArtist": "0_1",
+        "type": "album",
+        "title": "midnight-tales",
+        "album": "lo-fi-chill-session",
+        "artist": "kupla-blue-fox",
+        "cover": null,
+        "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/midnight-tales.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 173.976,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_1_0_4",
+        "idAlbum": "0_1_0",
+        "idArtist": "0_1",
+        "type": "album",
+        "title": "night-drive",
+        "album": "lo-fi-chill-session",
+        "artist": "kupla-blue-fox",
+        "cover": null,
+        "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/night-drive.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 178.56,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_1_0_5",
+        "idAlbum": "0_1_0",
+        "idArtist": "0_1",
+        "type": "album",
+        "title": "silent-rain",
+        "album": "lo-fi-chill-session",
+        "artist": "kupla-blue-fox",
+        "cover": null,
+        "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/silent-rain.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 158.088,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      }
+    ],
+    "title": "Lo fi chill session",
+    "type": "playlist",
+    "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session",
+    "tracksCount": 5
+  },
+  {
+    "album": "Chill lo fi music",
+    "artist": "nospirit-casiio",
+    "banner": null,
+    "color": "#5d352e",
+    "cover": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/cover.jpg",
+    "duration": 885.384,
+    "id": "2",
+    "idAlbum": "0_2_0",
+    "idSingle": null,
+    "songs": [
+      {
+        "id": "0_2_0_0",
+        "idAlbum": "0_2_0",
+        "idArtist": "0_2",
+        "type": "album",
+        "title": "coffee-daze",
+        "album": "chill-lo-fi-music",
+        "artist": "nospirit-casiio",
+        "cover": null,
+        "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/coffee-daze.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": null,
+          "duration": 220.032,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_2_0_2",
+        "idAlbum": "0_2_0",
+        "idArtist": "0_2",
+        "type": "album",
+        "title": "moonlit-walk",
+        "album": "chill-lo-fi-music",
+        "artist": "nospirit-casiio",
+        "cover": null,
+        "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/moonlit-walk.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 177.36,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_2_0_3",
+        "idAlbum": "0_2_0",
+        "idArtist": "0_2",
+        "type": "album",
+        "title": "night's-end",
+        "album": "chill-lo-fi-music",
+        "artist": "nospirit-casiio",
+        "cover": null,
+        "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/night's-end.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": null,
+          "duration": 146.04,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_2_0_4",
+        "idAlbum": "0_2_0",
+        "idArtist": "0_2",
+        "type": "album",
+        "title": "skyline-serenade",
+        "album": "chill-lo-fi-music",
+        "artist": "nospirit-casiio",
+        "cover": null,
+        "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/skyline-serenade.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 209.976,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_2_0_5",
+        "idAlbum": "0_2_0",
+        "idArtist": "0_2",
+        "type": "album",
+        "title": "urban-echoes",
+        "album": "chill-lo-fi-music",
+        "artist": "nospirit-casiio",
+        "cover": null,
+        "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/urban-echoes.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 131.976,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      }
+    ],
+    "title": "Chill lo fi music",
+    "type": "playlist",
+    "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music",
+    "tracksCount": 5
+  },
+  {
+    "album": "Adios mis chorreadas",
+    "artist": "pedro-infante",
+    "banner": null,
+    "color": null,
+    "cover": null,
+    "duration": 1933.9232653061226,
+    "id": "3",
+    "idAlbum": "0_3_1",
+    "idSingle": null,
+    "songs": [
+      {
+        "id": "0_3_1_0",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "06-con-el-tiempo-y-un-ganchito",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/06-con-el-tiempo-y-un-ganchito.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Con el Tiempo y un Ganchito",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 141.374693877551,
+          "name": "Pedro Infante - Con el Tiempo y un Ganchito",
+          "size": 128000,
+          "composers": [
+            "Genaro Nunez"
+          ],
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 6
+        }
+      },
+      {
+        "id": "0_3_1_1",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "07-abranse-que-vengo-herido",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/07-abranse-que-vengo-herido.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Abranse que vengo herido",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 154.88,
+          "name": "Pedro Infante - Abranse que vengo herido",
+          "size": 128000,
+          "composers": [
+            "Manuel Álvarez"
+          ],
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 7
+        }
+      },
+      {
+        "id": "0_3_1_2",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "11-que-suerte-la-mia",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/11-que-suerte-la-mia.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Que Suerte la Mia",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 208.43102040816328,
+          "name": "Pedro Infante - Que Suerte la Mia",
+          "size": 146190.8306178719,
+          "composers": [
+            "José Alfredo Jiménez"
+          ],
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 11
+        }
+      },
+      {
+        "id": "0_3_1_6",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "cuatro-caminos---1950",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/cuatro-caminos---1950.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Cuatro caminos",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 173.92326530612246,
+          "name": "Pedro Infante - Cuatro caminos",
+          "size": 128000,
+          "composers": null,
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 16
+        }
+      },
+      {
+        "id": "0_3_1_8",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "dicen-que-soy-mujeriego---1949",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/dicen-que-soy-mujeriego---1949.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Dicen que soy mujeriego",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 155.2195918367347,
+          "name": "Pedro Infante - Dicen que soy mujeriego",
+          "size": 128000,
+          "composers": null,
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 5
+        }
+      },
+      {
+        "id": "0_3_1_10",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "la-que-se-fué---1950",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/la-que-se-fué---1950.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "La que se fué",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 163.57877551020408,
+          "name": "Pedro Infante - La que se fué",
+          "size": 128000,
+          "composers": null,
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 13
+        }
+      },
+      {
+        "id": "0_3_1_11",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "las-tres-hermanas---1955",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/las-tres-hermanas---1955.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Las tres hermanas",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 191.0334693877551,
+          "name": "Pedro Infante - Las tres hermanas",
+          "size": 128000,
+          "composers": null,
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 14
+        }
+      },
+      {
+        "id": "0_3_1_12",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "mi-preferida---1950",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/mi-preferida---1950.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Mi preferida",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 179.33061224489796,
+          "name": "Pedro Infante - Mi preferida",
+          "size": 128000,
+          "composers": null,
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 4
+        }
+      },
+      {
+        "id": "0_3_1_13",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "pobre-corazón---1950",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/pobre-corazón---1950.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Pobre corazón",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 185.20816326530613,
+          "name": "Pedro Infante - Pobre corazón",
+          "size": 128000,
+          "composers": null,
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 3
+        }
+      },
+      {
+        "id": "0_3_1_15",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "tu,-solo-tu---1949",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/tu,-solo-tu---1949.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Tu, solo tu",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 196.91102040816327,
+          "name": "Pedro Infante - Tu, solo tu",
+          "size": 128000,
+          "composers": null,
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 10
+        }
+      },
+      {
+        "id": "0_3_1_16",
+        "idAlbum": "0_3_1",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "tú-y-las-nubes---1954",
+        "album": "adios-mis-chorreadas",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/tú-y-las-nubes---1954.mp3",
+        "metadata": {
+          "artist": "Pedro Infante",
+          "title": "Tú y las nubes",
+          "album": "Adios Mis Chorreadas",
+          "year": 1950,
+          "duration": 184.0326530612245,
+          "name": "Pedro Infante - Tú y las nubes",
+          "size": 128000,
+          "composers": null,
+          "artists": [
+            "Pedro Infante"
+          ],
+          "pistas": 8
+        }
+      }
+    ],
+    "title": "Adios mis chorreadas",
+    "type": "playlist",
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas",
+    "tracksCount": 11
+  },
+  {
+    "album": "Boleros vol.2",
+    "artist": "pedro-infante",
+    "banner": null,
+    "color": "#443b3f",
+    "cover": "/music/artists/pedro-infante/albums/boleros-vol.2/cover.jpg",
+    "duration": 1778.233469387755,
+    "id": "4",
+    "idAlbum": "0_3_2",
+    "idSingle": null,
+    "songs": [
+      {
+        "id": "0_3_2_0",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "01-cien-años",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/01-cien-años.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Cien años",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 212.61061224489796,
+          "name": "Pedro infante - Cien años",
+          "size": 128000,
+          "composers": [
+            "Fuentes Cervantes",
+            "Rubén Fuentes"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 1
+        }
+      },
+      {
+        "id": "0_3_2_1",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "04-amor-de-mis-amores",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/04-amor-de-mis-amores.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Amor de Mis Amores",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 156.89142857142858,
+          "name": "Pedro infante - Amor de Mis Amores",
+          "size": 192000,
+          "composers": [
+            "Maria Teresa Lara"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 4
+        }
+      },
+      {
+        "id": "0_3_2_2",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "05-te-quiero-así",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/05-te-quiero-así.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Te quiero así",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 227.99673469387756,
+          "name": "Pedro infante - Te quiero así",
+          "size": 128000,
+          "composers": [
+            "Bernardo Sancristóbal",
+            "Miguel Prado"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 5
+        }
+      },
+      {
+        "id": "0_3_2_3",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "07-si-tu-me-quisieras",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/07-si-tu-me-quisieras.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Si tu me quisieras",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 165.4595918367347,
+          "name": "Pedro infante - Si tu me quisieras",
+          "size": 128000,
+          "composers": [
+            "Fuentes Cervantes"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 7
+        }
+      },
+      {
+        "id": "0_3_2_4",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "08-grito-prisionero",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/08-grito-prisionero.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Grito prisionero",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 186.9583673469388,
+          "name": "Pedro infante - Grito prisionero",
+          "size": 128000,
+          "composers": [
+            "Fuente, G. Luna De La",
+            "Gabriel Ruíz"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 8
+        }
+      },
+      {
+        "id": "0_3_2_5",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "09-la-barca-de-guaymas",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/09-la-barca-de-guaymas.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "La barca de Guaymas",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 187.14122448979592,
+          "name": "Pedro infante - La barca de Guaymas",
+          "size": 128000,
+          "composers": [
+            "Portillo, José López",
+            "Rojas"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 9
+        }
+      },
+      {
+        "id": "0_3_2_6",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "11-alma-de-acero",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/11-alma-de-acero.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Alma de acero",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 152.81632653061226,
+          "name": "Pedro infante - Alma de acero",
+          "size": 128000,
+          "composers": [
+            "Chucho Monge"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 11
+        }
+      },
+      {
+        "id": "0_3_2_7",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "12-las-tres-cosas",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/12-las-tres-cosas.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Las tres cosas",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 179.38285714285715,
+          "name": "Pedro infante - Las tres cosas",
+          "size": 128000,
+          "composers": [
+            "Carmelo Larrea"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 12
+        }
+      },
+      {
+        "id": "0_3_2_8",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "13-amor-de-los-dos",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/13-amor-de-los-dos.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Amor de los dos",
+          "album": "Boleros Vol.2",
+          "year": 1990,
+          "duration": 125.38775510204081,
+          "name": "Pedro infante - Amor de los dos",
+          "size": 320000,
+          "composers": [
+            "Gilberto Parra"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 13
+        }
+      },
+      {
+        "id": "0_3_2_9",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "14-amorcito-de-mi-vida",
+        "album": "boleros-vol.2",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/albums/boleros-vol.2/14-amorcito-de-mi-vida.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Amorcito de mi vida",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 183.58857142857144,
+          "name": "Pedro infante - Amorcito de mi vida",
+          "size": 128000,
+          "composers": [
+            "Corázar",
+            "Manuel Esperón"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 14
+        }
+      }
+    ],
+    "title": "Boleros vol.2",
+    "type": "playlist",
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2",
+    "tracksCount": 10
+  },
+  {
+    "album": "singles",
+    "artist": "chau-saura-amies-kyu",
+    "banner": null,
+    "color": "#552f38",
+    "cover": "/music/artists/chau-saura-amies-kyu/singles/cover.jpg",
+    "duration": 366.93600000000004,
+    "id": "13",
+    "idAlbum": null,
+    "idSingle": "0_0_2",
+    "songs": [
+      {
+        "id": "0_0_2_0",
+        "idAlbum": "0_0_2",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "01",
+        "album": "singles",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/singles/01.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 186.312,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_0_2_1",
+        "idAlbum": "0_0_2",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "02---copia",
+        "album": "singles",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/singles/02---copia.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 90.312,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_0_2_2",
+        "idAlbum": "0_0_2",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "02",
+        "album": "singles",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/singles/02.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 90.312,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      }
+    ],
+    "title": "singles",
+    "type": "playlist",
+    "url": "/music/artists/chau-saura-amies-kyu/singles",
+    "tracksCount": 3
+  },
+  {
+    "album": "singles",
+    "artist": "pedro-infante",
+    "banner": null,
+    "color": null,
+    "cover": null,
+    "duration": 488.3591836734694,
+    "id": "14",
+    "idAlbum": null,
+    "idSingle": "0_3_2",
+    "songs": [
+      {
+        "id": "0_3_2_0",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "12-las-tres-cosas",
+        "album": "singles",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/singles/12-las-tres-cosas.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Las tres cosas",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 179.38285714285715,
+          "name": "Pedro infante - Las tres cosas",
+          "size": 128000,
+          "composers": [
+            "Carmelo Larrea"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 12
+        }
+      },
+      {
+        "id": "0_3_2_1",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "13-amor-de-los-dos",
+        "album": "singles",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/singles/13-amor-de-los-dos.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Amor de los dos",
+          "album": "Boleros Vol.2",
+          "year": 1990,
+          "duration": 125.38775510204081,
+          "name": "Pedro infante - Amor de los dos",
+          "size": 320000,
+          "composers": [
+            "Gilberto Parra"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 13
+        }
+      },
+      {
+        "id": "0_3_2_2",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "14-amorcito-de-mi-vida",
+        "album": "singles",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/singles/14-amorcito-de-mi-vida.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Amorcito de mi vida",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 183.58857142857144,
+          "name": "Pedro infante - Amorcito de mi vida",
+          "size": 128000,
+          "composers": [
+            "Corázar",
+            "Manuel Esperón"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 14
+        }
+      }
+    ],
+    "title": "singles",
+    "type": "playlist",
+    "url": "/music/artists/pedro-infante/singles",
+    "tracksCount": 3
+  }
+]

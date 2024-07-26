@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/   # No permitir que los motores de búsqueda accedan a la carpeta /admin/
+Disallow: /private/ # No permitir que los motores de búsqueda accedan a la carpeta /private/
+Disallow: /login    # No permitir que los motores de búsqueda accedan a la página de inicio de sesión

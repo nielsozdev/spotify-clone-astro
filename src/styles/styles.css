@@ -1,0 +1,234 @@
+:root {
+  --text-color: green;
+  --min-container-width: 372px;
+  --shelf-min-height: 275px;
+  --grid-gap: 24px;
+  --column-count: 1;
+  --card-color: #000;
+  --content-max-width:1955px;
+  --card-color: #333;
+}
+
+
+@media (min-width: 375px) {
+  body {
+      --text-color: blue;
+      --column-count: 2;
+    }
+  }
+@media (min-width: 640px) {
+  body {
+      --text-color: blue;
+      --column-count: 3;
+    }
+  }
+  @media (min-width: 768px) {
+  body {
+      --text-color: red;
+      --column-count: 3;
+    }
+  }
+  @media (min-width: 1024px) {
+  body {
+      --text-color: yellow;
+      --column-count: 4;
+    }
+  }
+  @media (min-width: 1280px) {
+  body {
+      --text-color: brown;
+      --column-count: 5;
+    }
+  }
+  @media (min-width: 1536px) {
+  body {
+      --text-color: cyan;
+      --column-count: 6;
+    }
+  }
+  @media (min-width: 1850px) {
+  body {
+      --text-color: cyan;
+      --column-count: 7;
+    }
+  }
+  @media (min-width: 2050px) {
+  body {
+      --text-color: orange;
+      --column-count: 8;
+    }
+  }
+  @media (min-width: 2250px) {
+    body {
+      --text-color: purple;
+      --column-count: 9;
+    }
+  }
+
+
+html {
+  box-sizing: border-box;
+  height: 100dvh;
+  width: 100dvw;
+
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body{
+  scrollbar-gutter: stable;
+  scroll-behavior: smooth;
+background-color: #000;
+  display: flex;
+    flex-direction: column;
+    scrollbar-width: none;
+    user-select: none;
+    overflow:hidden;
+
+  height: 100dvh;
+  width: 100dvw;
+  /* border:2px solid red; */
+}
+#app {
+  display: grid;
+  background-color: #010101;
+  /* gap: 8px; */
+  min-height: 100%;
+  /* padding: 8px; */
+  position: relative;
+  width: 100%;
+  grid-template-areas:
+    'aside main main'
+    'player player player';
+  grid-template-columns: auto 1fr;
+  grid-template-rows: 1fr 80px;
+}
+.container-card article {
+  margin-bottom: 10px;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+  /* font-size: 1.125rem;
+  font-weight: 700; */
+  font-family: var(
+    --font-family,
+    CircularSp,
+    CircularSp-Arab,
+    CircularSp-Hebr,
+    CircularSp-Cyrl,
+    CircularSp-Grek,
+    CircularSp-Deva,
+    var(--fallback-fonts, sans-serif)
+  );
+  /* background-color: transparent;
+  border: 0px;
+  border-radius: 9999px; */
+  /* cursor: pointer; */
+  /* display: inline-block; */
+  /* position: relative; */
+  /* text-align: center; */
+  /* text-decoration: none; */
+  /* text-transform: none; */
+  touch-action: manipulation;
+  transition-duration: 33ms;
+  transition-property: background-color, border-color, color, box-shadow,
+    filter, transform;
+  user-select: none;
+  /* vertical-align: middle; */
+  /* transform: translate3d(0px, 0px, 0px); */
+  /* padding: 0px;
+  min-inline-size: 0px; */
+}
+ * {
+  scrollbar-width: 10px;
+  scrollbar-color: rgb(50, 50, 50) rgb(30, 30, 30);
+}
+
+*::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+*::-webkit-scrollbar-track:hover {
+  background-color: #1e1e1e;
+}
+
+*::-webkit-scrollbar-track:active {
+  background-color: #1e1e1e;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: #323232;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #464646;
+}
+
+*::-webkit-scrollbar-thumb:active {
+  background-color: #464646;
+}
+
+html {
+  font-family: 'CircularStd', system-ui;
+  background: #000000;
+  color: white;
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  src: url('/fonts/CircularStd-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  src: url('/fonts/CircularStd-Book.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  src: url('/fonts/CircularStd-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  src: url('/fonts/CircularStd-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  src: url('/fonts/CircularStd-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* .main-view-container__scroll-node-child {
+  isolation: isolate;
+  padding-bottom: 32px;
+}
+@media (prefers-reduced-motion: no-preference)  {
+  .main-view-container__scroll-node-child{
+
+    scroll-behavior: smooth;
+  }
+} */

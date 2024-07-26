@@ -1,0 +1,95 @@
+---
+import RadioIconOff from '@icons/RadioIconOff.astro'
+import { capitalizeName } from '@utils/capitalizeName'
+import { formatDuration } from '@utils/formatter'
+
+interface Props {
+  cover: string | null
+  title: string
+  artist: string
+  duration?: number | null
+  tracksCount?: number
+  id: string
+  type: string
+}
+const {
+  cover,
+  title,
+  artist,
+  duration = null,
+  tracksCount = 0,
+  id,
+  type = ''
+} = Astro.props
+---
+
+<div class='relative z-10'>
+  <div class='grid grid-cols-1 gap-6'>
+    <header class='relative flex flex-col gap-8 lg:flex-row'>
+      <picture
+        class='aspect-square h-40 w-40 flex-none overflow-hidden rounded-lg bg-white/10 lg:h-52 lg:w-52'
+      >
+        {
+          cover && (
+            <>
+              <img
+                src={cover}
+                loading='lazy'
+                alt={`Cover of ${title}`}
+                class='h-full w-full object-cover shadow-lg'
+                transition:name={`playlist ${id} image`}
+              />
+            </>
+          )
+        }
+        {
+          !cover && (
+            <div class=' grid h-full w-full place-content-center rounded-md '>
+              <div class='h-24 w-24'>
+                <RadioIconOff />
+              </div>
+            </div>
+          )
+        }
+      </picture>
+
+      <div class='flex flex-col justify-between'>
+        <h2 class='flex flex-1 items-end text-xl font-bold'>
+          {capitalizeName(type)}
+        </h2>
+        <div>
+          <h1 class='block py-2 text-3xl font-bold text-white md:text-5xl'>
+            <span transition:name=`playlist ${id} title`>{title}</span>
+          </h1>
+        </div>
+
+        <div class='flex flex-1 items-center'>
+          <div
+            class='text-md flex flex-col items-start gap-0 font-normal text-gray-300'
+          >
+            <div transition:name=`playlist ${id} artists`>
+              <span>{artist}</span>
+            </div>
+            {
+              !!tracksCount && (
+                <p class='flex'>
+                  <span class='text-white'>{tracksCount} canciones </span>
+                </p>
+              )
+            }
+            {
+              !!duration && (
+                <p>
+                  <span>
+                    {formatDuration(duration).formatWithText}
+                    aproximadamente
+                  </span>
+                </p>
+              )
+            }
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>
+</div>

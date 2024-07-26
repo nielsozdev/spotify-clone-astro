@@ -1,0 +1,51 @@
+---
+interface Props {
+  title: string
+  href?: string
+  row?: boolean
+}
+
+const { title, href = null, row = false } = Astro.props
+---
+
+<section class:list={['relative z-10 my-3 sm:my-6']}>
+  <div class='flex w-full items-center justify-between'>
+    <span class='flex items-center text-lg font-bold sm:text-2xl'>{title}</span>
+    {
+      href && (
+        <span class='flex items-center justify-end font-semibold hover:underline'>
+          <a href={href}>Mostrar todo</a>
+        </span>
+      )
+    }
+  </div>
+  <div
+    class:list={[
+      'container-card mb-10 mt-2 flex flex-wrap gap-4',
+      {
+        'container-card-counts': row
+      }
+    ]}
+  >
+    <slot />
+  </div>
+</section>
+<style>
+  .container-card {
+    display: grid;
+    grid-gap: 0 var(--grid-gap);
+    grid-template-columns: repeat(var(--column-count), minmax(0, 1fr));
+    min-width: 100%;
+    /* min-width: var(--min-container-width); */
+
+    overflow: hidden;
+  }
+  /* .container-card article {
+    margin-bottom: 10px;
+    border: 1px solid red !important;
+  } */
+  .container-card-counts {
+    grid-auto-rows: 0;
+    grid-template-rows: 1fr;
+  }
+</style>

@@ -1,0 +1,11 @@
+.current-song{
+    column-gap: 8px;
+    display: grid;
+    align-items: center;
+    margin: 0 8px;
+    flex-direction: column;
+    grid-template:
+        "title title"
+        "pretitle pretitle"
+        "badges subtitle"/auto 1fr;
+}

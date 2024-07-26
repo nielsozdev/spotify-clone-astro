@@ -1,0 +1,2654 @@
+[
+  {
+    "id": "0_0_0_0",
+    "idAlbum": "0_0_0",
+    "idArtist": "0_0",
+    "type": "album",
+    "title": "01",
+    "album": "chau-saura-session",
+    "artist": "chau-saura-amies-kyu",
+    "cover": null,
+    "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/01.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 229.68,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_0_0_1",
+    "idAlbum": "0_0_0",
+    "idArtist": "0_0",
+    "type": "album",
+    "title": "02",
+    "album": "chau-saura-session",
+    "artist": "chau-saura-amies-kyu",
+    "cover": null,
+    "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/02.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 112.92,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_0_0_2",
+    "idAlbum": "0_0_0",
+    "idArtist": "0_0",
+    "type": "album",
+    "title": "03",
+    "album": "chau-saura-session",
+    "artist": "chau-saura-amies-kyu",
+    "cover": null,
+    "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/03.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 135.504,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_0_0_3",
+    "idAlbum": "0_0_0",
+    "idArtist": "0_0",
+    "type": "album",
+    "title": "04",
+    "album": "chau-saura-session",
+    "artist": "chau-saura-amies-kyu",
+    "cover": null,
+    "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/04.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 246.384,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_0_0_4",
+    "idAlbum": "0_0_0",
+    "idArtist": "0_0",
+    "type": "album",
+    "title": "05",
+    "album": "chau-saura-session",
+    "artist": "chau-saura-amies-kyu",
+    "cover": null,
+    "url": "/music/artists/chau-saura-amies-kyu/albums/chau-saura-session/05.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 174.84,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_1_0_0",
+    "idAlbum": "0_1_0",
+    "idArtist": "0_1",
+    "type": "album",
+    "title": "city-lights",
+    "album": "lo-fi-chill-session",
+    "artist": "kupla-blue-fox",
+    "cover": null,
+    "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/city-lights.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 191.976,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_1_0_2",
+    "idAlbum": "0_1_0",
+    "idArtist": "0_1",
+    "type": "album",
+    "title": "lost-pages",
+    "album": "lo-fi-chill-session",
+    "artist": "kupla-blue-fox",
+    "cover": null,
+    "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/lost-pages.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 160.92,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_1_0_3",
+    "idAlbum": "0_1_0",
+    "idArtist": "0_1",
+    "type": "album",
+    "title": "midnight-tales",
+    "album": "lo-fi-chill-session",
+    "artist": "kupla-blue-fox",
+    "cover": null,
+    "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/midnight-tales.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 173.976,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_1_0_4",
+    "idAlbum": "0_1_0",
+    "idArtist": "0_1",
+    "type": "album",
+    "title": "night-drive",
+    "album": "lo-fi-chill-session",
+    "artist": "kupla-blue-fox",
+    "cover": null,
+    "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/night-drive.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 178.56,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_1_0_5",
+    "idAlbum": "0_1_0",
+    "idArtist": "0_1",
+    "type": "album",
+    "title": "silent-rain",
+    "album": "lo-fi-chill-session",
+    "artist": "kupla-blue-fox",
+    "cover": null,
+    "url": "/music/artists/kupla-blue-fox/albums/lo-fi-chill-session/silent-rain.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 158.088,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_2_0_0",
+    "idAlbum": "0_2_0",
+    "idArtist": "0_2",
+    "type": "album",
+    "title": "coffee-daze",
+    "album": "chill-lo-fi-music",
+    "artist": "nospirit-casiio",
+    "cover": null,
+    "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/coffee-daze.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": null,
+      "duration": 220.032,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_2_0_2",
+    "idAlbum": "0_2_0",
+    "idArtist": "0_2",
+    "type": "album",
+    "title": "moonlit-walk",
+    "album": "chill-lo-fi-music",
+    "artist": "nospirit-casiio",
+    "cover": null,
+    "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/moonlit-walk.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 177.36,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_2_0_3",
+    "idAlbum": "0_2_0",
+    "idArtist": "0_2",
+    "type": "album",
+    "title": "night's-end",
+    "album": "chill-lo-fi-music",
+    "artist": "nospirit-casiio",
+    "cover": null,
+    "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/night's-end.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": null,
+      "duration": 146.04,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_2_0_4",
+    "idAlbum": "0_2_0",
+    "idArtist": "0_2",
+    "type": "album",
+    "title": "skyline-serenade",
+    "album": "chill-lo-fi-music",
+    "artist": "nospirit-casiio",
+    "cover": null,
+    "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/skyline-serenade.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 209.976,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_2_0_5",
+    "idAlbum": "0_2_0",
+    "idArtist": "0_2",
+    "type": "album",
+    "title": "urban-echoes",
+    "album": "chill-lo-fi-music",
+    "artist": "nospirit-casiio",
+    "cover": null,
+    "url": "/music/artists/nospirit-casiio/albums/chill-lo-fi-music/urban-echoes.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 131.976,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_3_1_0",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "06-con-el-tiempo-y-un-ganchito",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/06-con-el-tiempo-y-un-ganchito.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Con el Tiempo y un Ganchito",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 141.374693877551,
+      "name": "Pedro Infante - Con el Tiempo y un Ganchito",
+      "size": 128000,
+      "composers": [
+        "Genaro Nunez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 6
+    }
+  },
+  {
+    "id": "0_3_1_1",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "07-abranse-que-vengo-herido",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/07-abranse-que-vengo-herido.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Abranse que vengo herido",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 154.88,
+      "name": "Pedro Infante - Abranse que vengo herido",
+      "size": 128000,
+      "composers": [
+        "Manuel Álvarez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 7
+    }
+  },
+  {
+    "id": "0_3_1_2",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "11-que-suerte-la-mia",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/11-que-suerte-la-mia.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Que Suerte la Mia",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 208.43102040816328,
+      "name": "Pedro Infante - Que Suerte la Mia",
+      "size": 146190.8306178719,
+      "composers": [
+        "José Alfredo Jiménez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 11
+    }
+  },
+  {
+    "id": "0_3_1_6",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "cuatro-caminos---1950",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/cuatro-caminos---1950.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Cuatro caminos",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 173.92326530612246,
+      "name": "Pedro Infante - Cuatro caminos",
+      "size": 128000,
+      "composers": null,
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 16
+    }
+  },
+  {
+    "id": "0_3_1_8",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "dicen-que-soy-mujeriego---1949",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/dicen-que-soy-mujeriego---1949.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Dicen que soy mujeriego",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 155.2195918367347,
+      "name": "Pedro Infante - Dicen que soy mujeriego",
+      "size": 128000,
+      "composers": null,
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 5
+    }
+  },
+  {
+    "id": "0_3_1_10",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "la-que-se-fué---1950",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/la-que-se-fué---1950.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "La que se fué",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 163.57877551020408,
+      "name": "Pedro Infante - La que se fué",
+      "size": 128000,
+      "composers": null,
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 13
+    }
+  },
+  {
+    "id": "0_3_1_11",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "las-tres-hermanas---1955",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/las-tres-hermanas---1955.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Las tres hermanas",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 191.0334693877551,
+      "name": "Pedro Infante - Las tres hermanas",
+      "size": 128000,
+      "composers": null,
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 14
+    }
+  },
+  {
+    "id": "0_3_1_12",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "mi-preferida---1950",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/mi-preferida---1950.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Mi preferida",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 179.33061224489796,
+      "name": "Pedro Infante - Mi preferida",
+      "size": 128000,
+      "composers": null,
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 4
+    }
+  },
+  {
+    "id": "0_3_1_13",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "pobre-corazón---1950",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/pobre-corazón---1950.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Pobre corazón",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 185.20816326530613,
+      "name": "Pedro Infante - Pobre corazón",
+      "size": 128000,
+      "composers": null,
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 3
+    }
+  },
+  {
+    "id": "0_3_1_15",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "tu,-solo-tu---1949",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/tu,-solo-tu---1949.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Tu, solo tu",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 196.91102040816327,
+      "name": "Pedro Infante - Tu, solo tu",
+      "size": 128000,
+      "composers": null,
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 10
+    }
+  },
+  {
+    "id": "0_3_1_16",
+    "idAlbum": "0_3_1",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "tú-y-las-nubes---1954",
+    "album": "adios-mis-chorreadas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/adios-mis-chorreadas/tú-y-las-nubes---1954.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Tú y las nubes",
+      "album": "Adios Mis Chorreadas",
+      "year": 1950,
+      "duration": 184.0326530612245,
+      "name": "Pedro Infante - Tú y las nubes",
+      "size": 128000,
+      "composers": null,
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 8
+    }
+  },
+  {
+    "id": "0_3_2_0",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "01-cien-años",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/01-cien-años.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Cien años",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 212.61061224489796,
+      "name": "Pedro infante - Cien años",
+      "size": 128000,
+      "composers": [
+        "Fuentes Cervantes",
+        "Rubén Fuentes"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 1
+    }
+  },
+  {
+    "id": "0_3_2_1",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "04-amor-de-mis-amores",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/04-amor-de-mis-amores.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Amor de Mis Amores",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 156.89142857142858,
+      "name": "Pedro infante - Amor de Mis Amores",
+      "size": 192000,
+      "composers": [
+        "Maria Teresa Lara"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 4
+    }
+  },
+  {
+    "id": "0_3_2_2",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "05-te-quiero-así",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/05-te-quiero-así.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Te quiero así",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 227.99673469387756,
+      "name": "Pedro infante - Te quiero así",
+      "size": 128000,
+      "composers": [
+        "Bernardo Sancristóbal",
+        "Miguel Prado"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 5
+    }
+  },
+  {
+    "id": "0_3_2_3",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "07-si-tu-me-quisieras",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/07-si-tu-me-quisieras.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Si tu me quisieras",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 165.4595918367347,
+      "name": "Pedro infante - Si tu me quisieras",
+      "size": 128000,
+      "composers": [
+        "Fuentes Cervantes"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 7
+    }
+  },
+  {
+    "id": "0_3_2_4",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "08-grito-prisionero",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/08-grito-prisionero.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Grito prisionero",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 186.9583673469388,
+      "name": "Pedro infante - Grito prisionero",
+      "size": 128000,
+      "composers": [
+        "Fuente, G. Luna De La",
+        "Gabriel Ruíz"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 8
+    }
+  },
+  {
+    "id": "0_3_2_5",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "09-la-barca-de-guaymas",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/09-la-barca-de-guaymas.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "La barca de Guaymas",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 187.14122448979592,
+      "name": "Pedro infante - La barca de Guaymas",
+      "size": 128000,
+      "composers": [
+        "Portillo, José López",
+        "Rojas"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 9
+    }
+  },
+  {
+    "id": "0_3_2_6",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "11-alma-de-acero",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/11-alma-de-acero.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Alma de acero",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 152.81632653061226,
+      "name": "Pedro infante - Alma de acero",
+      "size": 128000,
+      "composers": [
+        "Chucho Monge"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 11
+    }
+  },
+  {
+    "id": "0_3_2_7",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "12-las-tres-cosas",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/12-las-tres-cosas.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Las tres cosas",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 179.38285714285715,
+      "name": "Pedro infante - Las tres cosas",
+      "size": 128000,
+      "composers": [
+        "Carmelo Larrea"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 12
+    }
+  },
+  {
+    "id": "0_3_2_8",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "13-amor-de-los-dos",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/13-amor-de-los-dos.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Amor de los dos",
+      "album": "Boleros Vol.2",
+      "year": 1990,
+      "duration": 125.38775510204081,
+      "name": "Pedro infante - Amor de los dos",
+      "size": 320000,
+      "composers": [
+        "Gilberto Parra"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 13
+    }
+  },
+  {
+    "id": "0_3_2_9",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "14-amorcito-de-mi-vida",
+    "album": "boleros-vol.2",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/boleros-vol.2/14-amorcito-de-mi-vida.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Amorcito de mi vida",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 183.58857142857144,
+      "name": "Pedro infante - Amorcito de mi vida",
+      "size": 128000,
+      "composers": [
+        "Corázar",
+        "Manuel Esperón"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 14
+    }
+  },
+  {
+    "id": "0_3_3_0",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "01-puro-amor",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/01-puro-amor.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Puro amor",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 124.65632653061225,
+      "name": "Pedro Infante - Puro amor",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 1
+    }
+  },
+  {
+    "id": "0_3_3_1",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "02-guitarras-lloren-guitarras",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/02-guitarras-lloren-guitarras.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Guitarras lloren guitarras",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 148.40163265306123,
+      "name": "Pedro Infante - Guitarras lloren guitarras",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 2
+    }
+  },
+  {
+    "id": "0_3_3_2",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "05-corazoncito-tirano",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/05-corazoncito-tirano.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Corazoncito tirano",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 182.25632653061226,
+      "name": "Pedro Infante - Corazoncito tirano",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 5
+    }
+  },
+  {
+    "id": "0_3_3_3",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "06-derecho-a-la-vida",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/06-derecho-a-la-vida.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Derecho a la vida",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 186.04408163265308,
+      "name": "Pedro Infante - Derecho a la vida",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez",
+        "MG 15"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 6
+    }
+  },
+  {
+    "id": "0_3_3_4",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "07-ando-muy-borracho",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/07-ando-muy-borracho.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Ando muy borracho",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 192.47020408163266,
+      "name": "Pedro Infante - Ando muy borracho",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 7
+    }
+  },
+  {
+    "id": "0_3_3_5",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "09-que-manera-de-perder",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/09-que-manera-de-perder.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Que manera de perder",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 151.09224489795918,
+      "name": "Pedro Infante - Que manera de perder",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 9
+    }
+  },
+  {
+    "id": "0_3_3_6",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "10-cariño",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/10-cariño.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Cariño",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 160.49632653061224,
+      "name": "Pedro Infante - Cariño",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 10
+    }
+  },
+  {
+    "id": "0_3_3_7",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "11-la-desentendida",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/11-la-desentendida.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "La desentendida",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 168.59428571428572,
+      "name": "Pedro Infante - La desentendida",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 11
+    }
+  },
+  {
+    "id": "0_3_3_8",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "12-que-siga-la-bola",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/12-que-siga-la-bola.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Que siga la bola",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 140.4604081632653,
+      "name": "Pedro Infante - Que siga la bola",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 12
+    }
+  },
+  {
+    "id": "0_3_3_9",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "14-yo-maté-a-juan-charrasqueado",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/14-yo-maté-a-juan-charrasqueado.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Yo maté a Juan Charrasqueado",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 201.0122448979592,
+      "name": "Pedro Infante - Yo maté a Juan Charrasqueado",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez",
+        "Victor Rafael Cordero"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 14
+    }
+  },
+  {
+    "id": "0_3_3_10",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "15-tercia-de-ases",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/15-tercia-de-ases.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Tercia de ases",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 140.61714285714285,
+      "name": "Pedro Infante - Tercia de ases",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 15
+    }
+  },
+  {
+    "id": "0_3_3_11",
+    "idAlbum": "0_3_3",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "16-por-ahi,-por-ahi",
+    "album": "interpreta-a-cuco-sánchez",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/interpreta-a-cuco-sánchez/16-por-ahi,-por-ahi.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Por ahi, por ahi",
+      "album": "Interpreta a Cuco Sánchez",
+      "year": 1948,
+      "duration": 174.18448979591838,
+      "name": "Pedro Infante - Por ahi, por ahi",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 16
+    }
+  },
+  {
+    "id": "0_3_5_0",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "01-no-me-platiques",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/01-no-me-platiques.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "No Me Platiques",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 198.50448979591837,
+      "name": "Pedro Infante - No Me Platiques",
+      "size": 128000,
+      "composers": [
+        "Vicente Garrido"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 1
+    }
+  },
+  {
+    "id": "0_3_5_1",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "02-di-que-no",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/02-di-que-no.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Di Que No",
+      "album": "Historia Musical",
+      "year": 1990,
+      "duration": 165.25061224489795,
+      "name": "Pedro Infante - Di Que No",
+      "size": 128000,
+      "composers": [
+        "Alberto Cervantes",
+        "Rubén Fuentes"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 2
+    }
+  },
+  {
+    "id": "0_3_5_2",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "03-prohibido",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/03-prohibido.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Prohibido",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 215.0138775510204,
+      "name": "Pedro Infante - Prohibido",
+      "size": 128000,
+      "composers": [
+        "Carlos Bahr",
+        "Manuel Sucher"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 3
+    }
+  },
+  {
+    "id": "0_3_5_3",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "04-el-jazmin-deshojado",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/04-el-jazmin-deshojado.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "El Jazmin Deshojado",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 172.8,
+      "name": "Pedro Infante - El Jazmin Deshojado",
+      "size": 128000,
+      "composers": [
+        "Fuentes Gasson"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 4
+    }
+  },
+  {
+    "id": "0_3_5_4",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "05-el-mundo",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/05-el-mundo.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "El Mundo",
+      "album": "Historia Musical",
+      "year": 1990,
+      "duration": 210.2334693877551,
+      "name": "Pedro Infante - El Mundo",
+      "size": 128000,
+      "composers": [
+        "Enrique Fabregat",
+        "Montes, Mario Molina"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 5
+    }
+  },
+  {
+    "id": "0_3_5_5",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "06-palabritas-de-amor",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/06-palabritas-de-amor.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Palabritas de Amor",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 199.41877551020409,
+      "name": "Pedro Infante - Palabritas de Amor",
+      "size": 128000,
+      "composers": [
+        "Chucho Monge",
+        "Ernesto Cortázar"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 6
+    }
+  },
+  {
+    "id": "0_3_5_6",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "07-aunque-me-cueste-la-vida",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/07-aunque-me-cueste-la-vida.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Aunque Me Cueste la Vida",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 184.0065306122449,
+      "name": "Pedro Infante - Aunque Me Cueste la Vida",
+      "size": 128000,
+      "composers": [
+        "Luis Kalaff"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 7
+    }
+  },
+  {
+    "id": "0_3_5_7",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "08-mia",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/08-mia.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Mia",
+      "album": "Historia Musical",
+      "year": 1990,
+      "duration": 170.42285714285714,
+      "name": "Pedro Infante - Mia",
+      "size": 128000,
+      "composers": [
+        "Felipe Bermejo",
+        "Manuel Esperón"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 8
+    }
+  },
+  {
+    "id": "0_3_5_8",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "09-flor-de-espino",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/09-flor-de-espino.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Flor de Espino",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 189.17877551020408,
+      "name": "Pedro Infante - Flor de Espino",
+      "size": 128000,
+      "composers": [
+        "Rafael Cárdenas",
+        "Rubén Fuentes"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 9
+    }
+  },
+  {
+    "id": "0_3_5_9",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "10-la-barca-de-oro",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/10-la-barca-de-oro.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "La Barca de Oro",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 185.44326530612244,
+      "name": "Pedro Infante - La Barca de Oro",
+      "size": 128000,
+      "composers": [
+        "Abundio Martinez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 10
+    }
+  },
+  {
+    "id": "0_3_5_10",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "11-historia-de-un-amor",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/11-historia-de-un-amor.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Historia De Un Amor",
+      "album": "Historia Musical",
+      "year": 1998,
+      "duration": 204.43428571428572,
+      "name": "Pedro Infante - Historia De Un Amor",
+      "size": 128000,
+      "composers": [
+        "Carlos Almarán"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 11
+    }
+  },
+  {
+    "id": "0_3_5_11",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "12-el-muñeco-de-cuerda",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/12-el-muñeco-de-cuerda.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "El Muñeco de Cuerda",
+      "album": "Historia Musical",
+      "year": 1990,
+      "duration": 203.33714285714285,
+      "name": "Pedro Infante - El Muñeco de Cuerda",
+      "size": 128000,
+      "composers": [
+        "Montes, Mario Molina",
+        "Rubén Fuentes"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 12
+    }
+  },
+  {
+    "id": "0_3_5_12",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "13-ramito-de-azahar",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/13-ramito-de-azahar.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Ramito de Azahar",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 180.92408163265307,
+      "name": "Pedro Infante - Ramito de Azahar",
+      "size": 128000,
+      "composers": [
+        "Ernesto Cortázar",
+        "Raúl Lavista"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 13
+    }
+  },
+  {
+    "id": "0_3_5_13",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "14-pasión-eterna",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/14-pasión-eterna.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Pasión Eterna",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 168.20244897959185,
+      "name": "Pedro Infante - Pasión Eterna",
+      "size": 128000,
+      "composers": [
+        "Mario Cisneros"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 14
+    }
+  },
+  {
+    "id": "0_3_5_14",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "15-canto-del-bracero",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/15-canto-del-bracero.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Canto del Bracero",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 186.72326530612244,
+      "name": "Pedro Infante - Canto del Bracero",
+      "size": 128000,
+      "composers": [
+        "Ruben Méndez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 15
+    }
+  },
+  {
+    "id": "0_3_5_15",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "18-recuerdo",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/18-recuerdo.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Recuerdo",
+      "album": "Historia Musical",
+      "year": null,
+      "duration": 170.5273469387755,
+      "name": "Pedro Infante - Recuerdo",
+      "size": 128000,
+      "composers": [
+        "Alberto Alvarado"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 18
+    }
+  },
+  {
+    "id": "0_3_5_16",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "19-te-vengo-a-buscar",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/19-te-vengo-a-buscar.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Te Vengo a Buscar",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 182.64816326530612,
+      "name": "Pedro Infante - Te Vengo a Buscar",
+      "size": 128000,
+      "composers": [
+        "Alberto Cervantes",
+        "Rubén Fuentes"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 19
+    }
+  },
+  {
+    "id": "0_3_5_17",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "20-echenme-la-tierra-encima",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/20-echenme-la-tierra-encima.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Echenme la Tierra Encima",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 172.1730612244898,
+      "name": "Pedro Infante - Echenme la Tierra Encima",
+      "size": 128000,
+      "composers": [
+        "Garza, Rodolfo De La"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 20
+    }
+  },
+  {
+    "id": "0_3_5_18",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "21-cuatro-vidas",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/21-cuatro-vidas.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Cuatro Vidas",
+      "album": "Historia Musical",
+      "year": 2002,
+      "duration": 178.12897959183672,
+      "name": "Pedro Infante - Cuatro Vidas",
+      "size": 128000,
+      "composers": [
+        "Justo Carreras"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 21
+    }
+  },
+  {
+    "id": "0_3_5_44",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "toda-una-eternidad",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/toda-una-eternidad.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Toda Una Eternidad",
+      "album": "Historia Musical",
+      "year": null,
+      "duration": 150.4130612244898,
+      "name": "Pedro Infante - Toda Una Eternidad",
+      "size": 128000,
+      "composers": [
+        "Miguel Martinez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 16
+    }
+  },
+  {
+    "id": "0_3_5_45",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "tu-felicidad",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/tu-felicidad.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Tu Felicidad",
+      "album": "Historia Musical",
+      "year": null,
+      "duration": 176.09142857142857,
+      "name": "Pedro Infante - Tu Felicidad",
+      "size": 128000,
+      "composers": [
+        "René Touzet"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 22
+    }
+  },
+  {
+    "id": "0_3_5_46",
+    "idAlbum": "0_3_5",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "tu-vida-y-mi-vida",
+    "album": "pedro-infante.historia",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.historia/tu-vida-y-mi-vida.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Tu Vida y Mi Vida",
+      "album": "Historia Musical",
+      "year": null,
+      "duration": 162.14204081632653,
+      "name": "Pedro Infante - Tu Vida y Mi Vida",
+      "size": 128000,
+      "composers": [
+        "Alberto Cervantes",
+        "Rubén Fuentes"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 17
+    }
+  },
+  {
+    "id": "0_3_6_0",
+    "idAlbum": "0_3_6",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "03-tu-recuerdo-y-yo",
+    "album": "pedro-infante.valses-mexicanos-y--sudamericanos",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pedro-infante.valses-mexicanos-y--sudamericanos/03-tu-recuerdo-y-yo.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Tu recuerdo y yo",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 192,
+      "name": "Pedro Infante - Tu recuerdo y yo",
+      "size": 128000,
+      "composers": [
+        "José Alfredo Jiménez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 3
+    }
+  },
+  {
+    "id": "0_3_9_0",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "01-mi-tenampa",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/01-mi-tenampa.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Mi tenampa",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 198.0865306122449,
+      "name": "Pedro Infante - Mi tenampa",
+      "size": 128000,
+      "composers": [
+        "José Alfredo Jiménez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 1
+    }
+  },
+  {
+    "id": "0_3_9_1",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "02-copa-tras-copa",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/02-copa-tras-copa.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Copa Tras Copa",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 130.42938775510203,
+      "name": "Pedro Infante - Copa Tras Copa",
+      "size": 128000,
+      "composers": [
+        "Ruben Fuentes"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 2
+    }
+  },
+  {
+    "id": "0_3_9_2",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "03-tu-recuerdo-y-yo",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/03-tu-recuerdo-y-yo.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Tu recuerdo y yo",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 192,
+      "name": "Pedro Infante - Tu recuerdo y yo",
+      "size": 128000,
+      "composers": [
+        "José Alfredo Jiménez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 3
+    }
+  },
+  {
+    "id": "0_3_9_3",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "05-cartas-marcadas",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/05-cartas-marcadas.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Cartas marcadas",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 170.42285714285714,
+      "name": "Pedro Infante - Cartas marcadas",
+      "size": 128000,
+      "composers": [
+        "Chucho Monge"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 5
+    }
+  },
+  {
+    "id": "0_3_9_4",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "06-siempre,-siempre",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/06-siempre,-siempre.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Siempre, siempre",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 163.05632653061224,
+      "name": "Pedro Infante - Siempre, siempre",
+      "size": 128000,
+      "composers": [
+        "R. Fuentes",
+        "R. Mendez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 6
+    }
+  },
+  {
+    "id": "0_3_9_5",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "08-esta-noche",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/08-esta-noche.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Esta noche",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 190.69387755102042,
+      "name": "Pedro Infante - Esta noche",
+      "size": 128000,
+      "composers": [
+        "José Alfredo Jiménez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 8
+    }
+  },
+  {
+    "id": "0_3_9_6",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "09-ahora-soy-rico",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/09-ahora-soy-rico.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Ahora soy rico",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 152.52897959183673,
+      "name": "Pedro Infante - Ahora soy rico",
+      "size": 128000,
+      "composers": [
+        "José Alfredo Jiménez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 9
+    }
+  },
+  {
+    "id": "0_3_9_7",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "10-con-el-tiempo-y-un-ganchito",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/10-con-el-tiempo-y-un-ganchito.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Con el tiempo y un ganchito",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 164.31020408163266,
+      "name": "Pedro Infante - Con el tiempo y un ganchito",
+      "size": 128000,
+      "composers": [
+        "Public Domain"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 10
+    }
+  },
+  {
+    "id": "0_3_9_8",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "11-necesito-dinero",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/11-necesito-dinero.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Necesito Dinero",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 153.78285714285715,
+      "name": "Pedro Infante - Necesito Dinero",
+      "size": 160000,
+      "composers": [
+        "Ernesto Cortázar"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 11
+    }
+  },
+  {
+    "id": "0_3_9_9",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "12-oígame-compadre",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/12-oígame-compadre.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Oígame compadre",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 168.0195918367347,
+      "name": "Pedro Infante - Oígame compadre",
+      "size": 128000,
+      "composers": [
+        "Cuco Sánchez"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 12
+    }
+  },
+  {
+    "id": "0_3_9_10",
+    "idAlbum": "0_3_9",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "13-que-te-ha-dado-esa-mujer",
+    "album": "pi.en-las-cantinas",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/albums/pi.en-las-cantinas/13-que-te-ha-dado-esa-mujer.mp3",
+    "metadata": {
+      "artist": "Pedro Infante",
+      "title": "Que te ha dado esa mujer",
+      "album": "En las Cantinas",
+      "year": 1952,
+      "duration": 156.68244897959184,
+      "name": "Pedro Infante - Que te ha dado esa mujer",
+      "size": 128000,
+      "composers": [
+        "Gilberto Parra"
+      ],
+      "artists": [
+        "Pedro Infante"
+      ],
+      "pistas": 13
+    }
+  },
+  {
+    "id": "0_4_0_0",
+    "idAlbum": "0_4_0",
+    "idArtist": "0_4",
+    "type": "album",
+    "title": "01",
+    "album": "blue-note-study-time",
+    "artist": "raimu-yasumu",
+    "cover": null,
+    "url": "/music/artists/raimu-yasumu/albums/blue-note-study-time/01.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 179.592,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_4_0_1",
+    "idAlbum": "0_4_0",
+    "idArtist": "0_4",
+    "type": "album",
+    "title": "02",
+    "album": "blue-note-study-time",
+    "artist": "raimu-yasumu",
+    "cover": null,
+    "url": "/music/artists/raimu-yasumu/albums/blue-note-study-time/02.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 132.384,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_4_0_2",
+    "idAlbum": "0_4_0",
+    "idArtist": "0_4",
+    "type": "album",
+    "title": "03",
+    "album": "blue-note-study-time",
+    "artist": "raimu-yasumu",
+    "cover": null,
+    "url": "/music/artists/raimu-yasumu/albums/blue-note-study-time/03.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 182.376,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_4_0_3",
+    "idAlbum": "0_4_0",
+    "idArtist": "0_4",
+    "type": "album",
+    "title": "04",
+    "album": "blue-note-study-time",
+    "artist": "raimu-yasumu",
+    "cover": null,
+    "url": "/music/artists/raimu-yasumu/albums/blue-note-study-time/04.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 149.976,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_4_0_4",
+    "idAlbum": "0_4_0",
+    "idArtist": "0_4",
+    "type": "album",
+    "title": "05",
+    "album": "blue-note-study-time",
+    "artist": "raimu-yasumu",
+    "cover": null,
+    "url": "/music/artists/raimu-yasumu/albums/blue-note-study-time/05.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 149.304,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_5_0_1",
+    "idAlbum": "0_5_0",
+    "idArtist": "0_5",
+    "type": "album",
+    "title": "go-go-go!",
+    "album": "study-session",
+    "artist": "tenno-xander-team-astro",
+    "cover": null,
+    "url": "/music/artists/tenno-xander-team-astro/albums/study-session/go-go-go!.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 90.312,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_5_0_2",
+    "idAlbum": "0_5_0",
+    "idArtist": "0_5",
+    "type": "album",
+    "title": "javascript-is-the-way",
+    "album": "study-session",
+    "artist": "tenno-xander-team-astro",
+    "cover": null,
+    "url": "/music/artists/tenno-xander-team-astro/albums/study-session/javascript-is-the-way.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 236.976,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_5_0_3",
+    "idAlbum": "0_5_0",
+    "idArtist": "0_5",
+    "type": "album",
+    "title": "keep-focus!",
+    "album": "study-session",
+    "artist": "tenno-xander-team-astro",
+    "cover": null,
+    "url": "/music/artists/tenno-xander-team-astro/albums/study-session/keep-focus!.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 119.976,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_5_0_4",
+    "idAlbum": "0_5_0",
+    "idArtist": "0_5",
+    "type": "album",
+    "title": "lunar",
+    "album": "study-session",
+    "artist": "tenno-xander-team-astro",
+    "cover": null,
+    "url": "/music/artists/tenno-xander-team-astro/albums/study-session/lunar.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 186.312,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_5_0_5",
+    "idAlbum": "0_5_0",
+    "idArtist": "0_5",
+    "type": "album",
+    "title": "no-more-typescript-for-me",
+    "album": "study-session",
+    "artist": "tenno-xander-team-astro",
+    "cover": null,
+    "url": "/music/artists/tenno-xander-team-astro/albums/study-session/no-more-typescript-for-me.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 150.816,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_6_0_0",
+    "idAlbum": "0_6_0",
+    "idArtist": "0_6",
+    "type": "album",
+    "title": "01",
+    "album": "like-a-necessity",
+    "artist": "wfs-nadav-cohen",
+    "cover": null,
+    "url": "/music/artists/wfs-nadav-cohen/albums/like-a-necessity/01.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 117.312,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_6_0_1",
+    "idAlbum": "0_6_0",
+    "idArtist": "0_6",
+    "type": "album",
+    "title": "02",
+    "album": "like-a-necessity",
+    "artist": "wfs-nadav-cohen",
+    "cover": null,
+    "url": "/music/artists/wfs-nadav-cohen/albums/like-a-necessity/02.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 109.344,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_6_0_2",
+    "idAlbum": "0_6_0",
+    "idArtist": "0_6",
+    "type": "album",
+    "title": "03",
+    "album": "like-a-necessity",
+    "artist": "wfs-nadav-cohen",
+    "cover": null,
+    "url": "/music/artists/wfs-nadav-cohen/albums/like-a-necessity/03.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 155.976,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_6_0_3",
+    "idAlbum": "0_6_0",
+    "idArtist": "0_6",
+    "type": "album",
+    "title": "04",
+    "album": "like-a-necessity",
+    "artist": "wfs-nadav-cohen",
+    "cover": null,
+    "url": "/music/artists/wfs-nadav-cohen/albums/like-a-necessity/04.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 169.824,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_6_0_4",
+    "idAlbum": "0_6_0",
+    "idArtist": "0_6",
+    "type": "album",
+    "title": "05",
+    "album": "like-a-necessity",
+    "artist": "wfs-nadav-cohen",
+    "cover": null,
+    "url": "/music/artists/wfs-nadav-cohen/albums/like-a-necessity/05.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 149.112,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_0_2_0",
+    "idAlbum": "0_0_2",
+    "idArtist": "0_0",
+    "type": "album",
+    "title": "01",
+    "album": "singles",
+    "artist": "chau-saura-amies-kyu",
+    "cover": null,
+    "url": "/music/artists/chau-saura-amies-kyu/singles/01.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 186.312,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_0_2_1",
+    "idAlbum": "0_0_2",
+    "idArtist": "0_0",
+    "type": "album",
+    "title": "02---copia",
+    "album": "singles",
+    "artist": "chau-saura-amies-kyu",
+    "cover": null,
+    "url": "/music/artists/chau-saura-amies-kyu/singles/02---copia.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 90.312,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_0_2_2",
+    "idAlbum": "0_0_2",
+    "idArtist": "0_0",
+    "type": "album",
+    "title": "02",
+    "album": "singles",
+    "artist": "chau-saura-amies-kyu",
+    "cover": null,
+    "url": "/music/artists/chau-saura-amies-kyu/singles/02.mp3",
+    "metadata": {
+      "artist": null,
+      "title": null,
+      "album": null,
+      "year": 2022,
+      "duration": 90.312,
+      "name": null,
+      "size": 320000,
+      "composers": null,
+      "artists": null,
+      "pistas": null
+    }
+  },
+  {
+    "id": "0_3_2_0",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "12-las-tres-cosas",
+    "album": "singles",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/singles/12-las-tres-cosas.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Las tres cosas",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 179.38285714285715,
+      "name": "Pedro infante - Las tres cosas",
+      "size": 128000,
+      "composers": [
+        "Carmelo Larrea"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 12
+    }
+  },
+  {
+    "id": "0_3_2_1",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "13-amor-de-los-dos",
+    "album": "singles",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/singles/13-amor-de-los-dos.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Amor de los dos",
+      "album": "Boleros Vol.2",
+      "year": 1990,
+      "duration": 125.38775510204081,
+      "name": "Pedro infante - Amor de los dos",
+      "size": 320000,
+      "composers": [
+        "Gilberto Parra"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 13
+    }
+  },
+  {
+    "id": "0_3_2_2",
+    "idAlbum": "0_3_2",
+    "idArtist": "0_3",
+    "type": "album",
+    "title": "14-amorcito-de-mi-vida",
+    "album": "singles",
+    "artist": "pedro-infante",
+    "cover": null,
+    "url": "/music/artists/pedro-infante/singles/14-amorcito-de-mi-vida.mp3",
+    "metadata": {
+      "artist": "Pedro infante",
+      "title": "Amorcito de mi vida",
+      "album": "Boleros Vol.2",
+      "year": 1997,
+      "duration": 183.58857142857144,
+      "name": "Pedro infante - Amorcito de mi vida",
+      "size": 128000,
+      "composers": [
+        "Corázar",
+        "Manuel Esperón"
+      ],
+      "artists": [
+        "Pedro infante"
+      ],
+      "pistas": 14
+    }
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "id": "0_0_2",
+    "idArtist": "0_0",
+    "artist": "chau-saura-amies-kyu",
+    "title": "singles",
+    "cover": "/music/artists/chau-saura-amies-kyu/singles/cover.jpg",
+    "color": "#552f38",
+    "banner": null,
+    "url": "/music/artists/chau-saura-amies-kyu/singles",
+    "duration": 366.93600000000004,
+    "songs": [
+      {
+        "id": "0_0_2_0",
+        "idAlbum": "0_0_2",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "01",
+        "album": "singles",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/singles/01.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 186.312,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_0_2_1",
+        "idAlbum": "0_0_2",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "02---copia",
+        "album": "singles",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/singles/02---copia.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 90.312,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      },
+      {
+        "id": "0_0_2_2",
+        "idAlbum": "0_0_2",
+        "idArtist": "0_0",
+        "type": "album",
+        "title": "02",
+        "album": "singles",
+        "artist": "chau-saura-amies-kyu",
+        "cover": null,
+        "url": "/music/artists/chau-saura-amies-kyu/singles/02.mp3",
+        "metadata": {
+          "artist": null,
+          "title": null,
+          "album": null,
+          "year": 2022,
+          "duration": 90.312,
+          "name": null,
+          "size": 320000,
+          "composers": null,
+          "artists": null,
+          "pistas": null
+        }
+      }
+    ],
+    "tracksCount": 3,
+    "type": "single"
+  },
+  {
+    "id": "0_3_2",
+    "idArtist": "0_3",
+    "artist": "pedro-infante",
+    "title": "singles",
+    "cover": null,
+    "color": null,
+    "banner": null,
+    "url": "/music/artists/pedro-infante/singles",
+    "duration": 488.3591836734694,
+    "songs": [
+      {
+        "id": "0_3_2_0",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "12-las-tres-cosas",
+        "album": "singles",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/singles/12-las-tres-cosas.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Las tres cosas",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 179.38285714285715,
+          "name": "Pedro infante - Las tres cosas",
+          "size": 128000,
+          "composers": [
+            "Carmelo Larrea"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 12
+        }
+      },
+      {
+        "id": "0_3_2_1",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "13-amor-de-los-dos",
+        "album": "singles",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/singles/13-amor-de-los-dos.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Amor de los dos",
+          "album": "Boleros Vol.2",
+          "year": 1990,
+          "duration": 125.38775510204081,
+          "name": "Pedro infante - Amor de los dos",
+          "size": 320000,
+          "composers": [
+            "Gilberto Parra"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 13
+        }
+      },
+      {
+        "id": "0_3_2_2",
+        "idAlbum": "0_3_2",
+        "idArtist": "0_3",
+        "type": "album",
+        "title": "14-amorcito-de-mi-vida",
+        "album": "singles",
+        "artist": "pedro-infante",
+        "cover": null,
+        "url": "/music/artists/pedro-infante/singles/14-amorcito-de-mi-vida.mp3",
+        "metadata": {
+          "artist": "Pedro infante",
+          "title": "Amorcito de mi vida",
+          "album": "Boleros Vol.2",
+          "year": 1997,
+          "duration": 183.58857142857144,
+          "name": "Pedro infante - Amorcito de mi vida",
+          "size": 128000,
+          "composers": [
+            "Corázar",
+            "Manuel Esperón"
+          ],
+          "artists": [
+            "Pedro infante"
+          ],
+          "pistas": 14
+        }
+      }
+    ],
+    "tracksCount": 3,
+    "type": "single"
+  }
+]

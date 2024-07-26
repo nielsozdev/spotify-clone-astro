@@ -1,0 +1,57 @@
+---
+
+import { ButtonPlayer } from '@components/button-player/ButtonPlayer'
+import Cover from '@components/cover/Cover.astro'
+import TopbarHeader from '@components/header/TopbarHeader.astro'
+import { MediaCollections } from '@components/tables/MediaCollections'
+import Container from '@components/ui/atoms/Container.astro'
+import ContainerHeaderBox from '@components/ui/atoms/ContainerHeaderBox.astro'
+import Layout from '@layouts/Layout.astro'
+import { getAllAlbums } from '@services/albums.services'
+
+export const prerender = false
+export async function getStaticPaths() {
+  const albums = await getAllAlbums()
+  console.log(albums)
+  const data = albums.map((album) => {
+    return {
+      params: { id: album.id },
+      props: { ...album }
+    }
+  })
+
+  return data
+}
+const path = Astro.url.pathname
+
+const { title, id, cover, artist, songs, color, duration, tracksCount } =
+  Astro.props
+---
+
+<Layout title={`Album ${title}`}>
+  <ContainerHeaderBox color={color} transition:name={`album-${id}-box`}>
+    <TopbarHeader slot='button-back' />
+
+    <Cover
+      type='album'
+      id={id}
+      cover={cover ?? null}
+      artist={artist}
+      duration={duration}
+      tracksCount={tracksCount}
+      title={title}
+    />
+    <ButtonPlayer
+      client:load
+      id={id}
+      size='big'
+      type='album'
+      path={path}
+      slot='button-player'
+    />
+  </ContainerHeaderBox>
+
+  <Container>
+    <MediaCollections client:load songs={songs} id={id} type='album' />
+  </Container>
+</Layout>

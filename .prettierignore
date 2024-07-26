@@ -1,0 +1,11 @@
+test/fixtures/**/*.md
+test/fixtures/**/*.astro
+**/dist
+pnpm-lock.yaml
+.github
+.changeset
+node_modules/**
+# Ignore files for PNPM, NPM and YARN
+pnpm-lock.yaml
+package-lock.json
+yarn.lock

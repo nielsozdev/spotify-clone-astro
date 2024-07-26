@@ -1,0 +1,13 @@
+---
+interface Props {
+  class?: string
+}
+const { class: className = '' } = Astro.props
+---
+
+<div class:list={['flex w-full ', className]}>
+  <!-- <footer class='block h-auto'> -->
+  <footer class='block w-full lg:min-w-[620px]'>
+    <slot />
+  </footer>
+</div>

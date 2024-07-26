@@ -1,0 +1,69 @@
+---
+import { ButtonPlayer } from '@components/button-player/ButtonPlayer'
+import AlbumIcon from '@icons/AlbumIcon.astro'
+
+interface Props {
+  id: string
+  cover?: string | null
+  title: string
+  href: string
+  transitionName: string
+}
+
+const { id, cover = null, title, href, transitionName } = Astro.props
+---
+
+<article class='group relative'>
+  <div class='absolute bottom-2 left-0 right-2 top-0 h-full w-full'>
+    <div class='relative h-full w-full'>
+      <div
+        class='absolute bottom-0 right-2 top-0 z-20 flex items-center justify-center'
+      >
+        <ButtonPlayer
+          id={id}
+          type='playlist'
+          size='small'
+          client:load
+          typeButton='landscape'
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class='playlist-item group relative flex h-full w-full items-center overflow-hidden rounded-md bg-zinc-500/30 pr-14 shadow-lg
+          outline-none transition-all duration-300 hover:bg-zinc-500/50 hover:shadow-xl focus:bg-zinc-500/50'
+    transition:name={transitionName}
+  >
+    <a href={href} class='flex h-full w-full items-center'>
+      <picture class='aspect-square h-16 w-16 flex-none'>
+        {
+          cover && (
+            <img
+              src={cover}
+              alt={`Cover of ${title}`}
+              class='h-full w-full object-cover'
+              transition:name={`playlist ${id} image`}
+            />
+          )
+        }
+        {
+          !cover && (
+            <div class='flex h-full w-full items-center justify-center '>
+              <div class='h-10 w-10'>
+                <AlbumIcon />
+              </div>
+            </div>
+          )
+        }
+      </picture>
+
+      <div
+        class='flex h-full w-[100%] items-center overflow-hidden text-nowrap ps-2'
+        transition:name=`playlist ${id} title`
+      >
+        {title}
+      </div>
+    </a>
+  </div>
+</article>
+<!-- alt={`Cover of ${title} by ${formatListSeparatedByCommas.format(title)}`} -->

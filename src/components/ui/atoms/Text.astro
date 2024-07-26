@@ -1,0 +1,61 @@
+---
+type ComponentsForTextProps = {
+  variant?: string
+  component: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'p' | 'span' | 'div'
+}
+
+type AnchorProps = {
+  variant?: string
+  component: 'a'
+  href: string
+}
+
+type Props = ComponentsForTextProps | AnchorProps
+
+const { variant: v, component: c = 'p', href } = Astro.props as AnchorProps
+
+const Component = c.toLowerCase()
+const variant = v?.toLowerCase()
+
+const VARIANT_LIST = {
+  h1: 'text-6xl',
+  h2: 'text-5xl',
+  h3: 'text-4xl',
+  h4: 'text-3xl',
+  h5: 'text-2xl',
+  h6: 'text-xl',
+  p: 'text-2xl'
+}
+
+const variantClass: string = `${
+  VARIANT_LIST[variant as keyof typeof VARIANT_LIST]
+}` as string
+
+const isValidAnchor = (Component === 'a' && typeof href === 'string') || !href
+
+if (!isValidAnchor) {
+  throw new Error('Para usar un anchor, necesitas pasar un href...')
+}
+
+const stylesList = {
+  [`${variantClass}`]: variant
+}
+---
+
+{
+  Component !== 'a' && (
+    <Component class:list={stylesList}>
+      <slot />
+    </Component>
+  )
+}
+
+{
+  Component === 'a' && (
+    <Component href={href} class:list={stylesList}>
+      <slot />
+    </Component>
+  )
+}
+
+<div>dsdss</div>

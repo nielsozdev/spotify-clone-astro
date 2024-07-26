@@ -1,0 +1,83 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "lib": [
+      "ES2020",
+      "DOM"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ],
+      "@styles/*": [
+        "src/styles/*"
+      ],
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@core/*": [
+        "src/core/*"
+      ],
+      "@helpers/*": [
+        "src/helpers/*"
+      ],
+      "@icons/*": [
+        "src/icons/*"
+      ],
+      "@lib/*": [
+        "src/lib/*"
+      ],
+      "@data/*": [
+        "src/data/*"
+      ],
+      "@pages/*": [
+        "src/pages/*"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@store/*": [
+        "src/store/*"
+      ],
+      "@mock/*": [
+        "src/__mock/*"
+      ],
+      "@services/*": [
+        "src/services/*"
+      ],
+      "@config/*": [
+        "src/config/*"
+      ],
+      "@typesDef/*": [
+        "src/types/*"
+      ],
+      "@scripts/*": [
+        "src/scripts/*"
+      ],
+      "@layouts/*": [
+        "src/layouts/*"
+      ],
+    },
+  },
+  "include": [
+    "**/*.js",
+    "**/*.ts",
+    "**/*.jsx",
+    "**/*.tsx",
+    "tests/**/*.js",
+    "**/*.astro",
+    "**/*.svelte",
+    ".eslintrc.cjs",
+    ".eslintrc.js",
+    "astro.config.mjs",
+    "svelte.config.js",
+    "prettier.config.cjs"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
