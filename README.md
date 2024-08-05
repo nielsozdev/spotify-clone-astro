@@ -53,9 +53,8 @@ El diseño de la aplicación está inspirado en la interfaz intuitiva y atractiv
 - Control de Volumen con teclado
 
 > [!NOTE]
-Al estar alojado los archivos .mp3 en vercel free, tiene limitaciones en cuanto al tiempo de reproducción, por lo que la reproducción de las canciones puede ser interrumpida.
-Del mismo modo la restauración de datos ni la creación de nuevas listas de reproducción,
-al estas usar el file system de Node.js, no se puede realizar en vercel, por lo que estas funcionalidades no estarán disponibles en la versión alojada en vercel.
+Debido a las limitaciones del plan gratuito de vercel, el clon puede tener algunas restricciones, al no estar optimizado aún para streamig continuo.
+Además, las funcionalidades para restaurar datos y crear nuevas listas de reproducción también pueden verse afectadas. 
 
 En el repositorio esta disponibles los scripts que se usa para hacer esta extracción.
 
